@@ -1,0 +1,13 @@
+def time_converter(a, b, c, d, e, f, g, h, i, j):
+    # your code here
+    return None
+
+
+if __name__ == '__main__':
+    print("Example:")
+    print(time_converter(12:30 p.m.))
+
+    # These "asserts" are used for self-checking and not for an auto-testing
+    assert time_converter(12:30 p.m.) == '12:30'
+    assert time_converter(9:00 a.m.) == '09:00'
+    print("Coding complete? Click 'Check' to earn cool rewards!")
